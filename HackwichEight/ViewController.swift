@@ -42,3 +42,8 @@ override func viewDidLoad() {
 
 
 }
+
+//Do not need to create another restaurant.swift
+//Chose restaurant around the same area
+//Make sure map centers
+//Restaurant on your map needs to be on your list etc.
