@@ -25,7 +25,7 @@ override func viewDidLoad() {
     centerMapOnLocation(location: initialLocation)
     
     //Create a restaurant object amd set all the arguments to each of the three parameters
-    let restaurantOne = Restaurant(title: "Kalapawai", type: "Kalapawai", coordinate: CLLocationCoordinate2D(latitude: 21.346470, longitude: -158.080098))
+    let restaurantOne = Restaurant(title: "Kalapawai", type: "American", coordinate: CLLocationCoordinate2D(latitude: 21.346470, longitude: -158.080098))
     mapView.addAnnotation(restaurantOne)
     
     }
